@@ -76,7 +76,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Music Visualizer (Minimal Version)</h1>
+      <h1>Music Visualizer </h1>
 
       <input type="file" accept="audio/*" onChange={handleFile} />
 
